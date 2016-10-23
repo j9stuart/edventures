@@ -25,7 +25,7 @@ funding_rounds_reduced = funding_rounds_df[["company_uuid", "funding_round_uuid"
 
 # Writing to SQL
 
-orgs_reduced.to_csv("organizations.txt", sep=',')
-people_reduced.to_csv("people.txt", sep=',')
-investors_reduced.to_csv("investors.txt", sep=',')
-funding_rounds_reduced.to_csv("funding_rounds.txt", sep=',')
+orgs_reduced.to_csv("organizations.txt", sep='\t', na_rep="None")
+people_reduced.to_csv("people.txt", sep='\t', na_rep="None")
+investors_reduced.to_csv("investors.txt", sep='\t', na_rep="None")
+funding_rounds_reduced.to_csv("funding_rounds.txt", sep='\t', na_rep="None")
