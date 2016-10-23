@@ -1,0 +1,155 @@
+person_uuid,org_uuid,started_on,ended_on,is_current,title,job_role,executive_role,advisory_role
+000cdf70-5946-10c7-8188-f0d506e7e70e,24582bb6-dad5-f255-9307-a92a600ddbe3,2011-09-01 00:00:00,,t,Co-founder,t,t,f
+00016334-9af9-1bae-0737-b5c0e906fcad,bcfcc3bb-a92e-c787-1611-cb2df62e470d,2014-06-01 00:00:00,,t,Member of the Board of Directors,f,f,t
+0009ce3f-5b0a-2e2a-94be-7fcd86e9d020,43ca8243-bd74-dd95-e9f4-4817ecc8ca79,,,f,Senior Vice President of Engineering,t,f,f
+000792fb-3022-cac3-eea5-a93a49150727,5feb6981-348c-dfc0-0504-dcfe73a331ce,2014-07-01 00:00:00,2014-12-01 00:00:00,f,Senior Software Engineer,t,f,f
+000792fb-3022-cac3-eea5-a93a49150727,7b224a36-b7b4-d02f-bf76-b4ac9ba085ca,2016-01-01 00:00:00,,t,Co-founder,t,t,f
+000609f8-4dee-8b88-fdab-8e506d84dd8a,0ab195f1-63be-606a-ad37-76cce3e2455d,2014-09-02 00:00:00,2016-04-22 00:00:00,f,Analyst,t,f,f
+000609f8-4dee-8b88-fdab-8e506d84dd8a,ad89cfd0-2839-e404-a62e-72605d4d22b2,2016-05-02 00:00:00,,t,Investor,t,f,f
+000de2ac-9ee6-42b0-0a58-a39cfa146e3f,0f837dfe-9ccd-29fc-8bc2-6fe96b6ff2f6,2002-01-01 00:00:00,,f,Senior Vice President,t,f,f
+000de2ac-9ee6-42b0-0a58-a39cfa146e3f,0f837dfe-9ccd-29fc-8bc2-6fe96b6ff2f6,1985-01-01 00:00:00,,f,Team Member,t,f,f
+000de2ac-9ee6-42b0-0a58-a39cfa146e3f,0f837dfe-9ccd-29fc-8bc2-6fe96b6ff2f6,,,t,"Executive Vice President, International",t,f,f
+0009ce3f-5b0a-2e2a-94be-7fcd86e9d020,1d71ad38-cb0f-e23c-6f7d-69a32e7b2010,,,t,CTO,t,t,f
+00086acf-adf2-b9cc-e600-442bfba4412d,fcf35538-c297-85aa-4fd8-230d4a64125a,2016-04-13 00:00:00,,t,Founder,t,t,f
+000497ac-d3f9-7969-6c8b-b4050c8efc04,e4190d28-8c00-ce91-aa14-7958c58e25c7,2015-06-01 00:00:00,,t,Co-Founder & CEO,t,t,f
+000497ac-d3f9-7969-6c8b-b4050c8efc04,0380331e-7e65-b765-d0dc-79b4e6a252db,2010-03-01 00:00:00,2012-12-01 00:00:00,f,Co-Founder & President,t,t,f
+00078497-649b-6548-71f4-4ddab271cc26,4043f036-93d7-a835-a7e2-f1eada7c546d,2005-09-01 00:00:00,2014-06-01 00:00:00,f,Chief Information Officer,t,f,f
+00078497-649b-6548-71f4-4ddab271cc26,7f0ba90d-5d52-b663-35b2-aa3411ac8707,2011-02-01 00:00:00,,t,"CTO, Co-founder",t,t,f
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,0e8e0be9-42d2-4065-1a87-bfa36c67091d,,,t,Member of the Advisory Board,f,f,t
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,4c61ac8a-1df2-1a47-d8b9-66c06b805417,,,t,Member of the Advisory Board,f,f,t
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,0098b059-489e-fbda-0875-addddf4c8c35,,,t,Member of the Board of Directors,f,f,t
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,d2c45b30-71c3-59c2-37bf-6dfa6ecdcfaa,,,t,Member of the Board of Directors,f,f,t
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,9a33fd58-10ac-d737-bdd0-792357456c7b,,,t,Member of the Board of Directors,f,f,t
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,354d9012-b362-9a54-37c2-328b9fbe41da,,,t,Member of the Board of Trustees,f,f,t
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,354d9012-b362-9a54-37c2-328b9fbe41da,2014-01-01 00:00:00,,t,President & CEO,t,t,f
+00104afd-01f7-d1f0-90af-fff7af4a39ad,78451606-2849-6814-e1bd-796cfcea1b7c,2016-05-26 00:00:00,,t,Chief Tehchnology Officer,t,f,f
+0001949a-f7fb-fd11-d6bf-1be5f2983429,be9e4bbd-e90f-a3d6-cba5-fbdb34df06fe,2010-01-01 00:00:00,,t,Chairman,f,f,t
+0000bf3d-7645-e2ef-ec7b-0408a9b2f879,0e17d1a2-1f8c-728a-14d3-2a535f59c281,2014-07-01 00:00:00,,t,Group CFO & Financial Director,t,f,f
+0000bf3d-7645-e2ef-ec7b-0408a9b2f879,0e17d1a2-1f8c-728a-14d3-2a535f59c281,2009-01-01 00:00:00,,f,CFO of MIH,t,t,f
+0000bf3d-7645-e2ef-ec7b-0408a9b2f879,0e17d1a2-1f8c-728a-14d3-2a535f59c281,,,f,GM of Pay-Television Business Development,t,f,f
+0000bf3d-7645-e2ef-ec7b-0408a9b2f879,0e17d1a2-1f8c-728a-14d3-2a535f59c281,,,f,"CFO, United Broadcasting Corporation Pcl",t,t,f
+0000bf3d-7645-e2ef-ec7b-0408a9b2f879,0e17d1a2-1f8c-728a-14d3-2a535f59c281,,,f,Finance Manager of the South African Operations Division in MultiChoice,t,t,f
+0000bf3d-7645-e2ef-ec7b-0408a9b2f879,2c23e7ad-4441-5320-fdf9-5aa7007fec0b,1989-01-01 00:00:00,1994-01-01 00:00:00,f,Team Member,t,f,f
+00016334-9af9-1bae-0737-b5c0e906fcad,5d910027-649d-c49c-2aa0-863ddc47183f,2008-01-01 00:00:00,,t,Member of the Board of Directors,f,t,t
+00016334-9af9-1bae-0737-b5c0e906fcad,10ec691d-c238-2b62-3a64-b3d3b89d2542,,,t,Member of the Board of Directors,f,f,t
+00016334-9af9-1bae-0737-b5c0e906fcad,bcfcc3bb-a92e-c787-1611-cb2df62e470d,,,t,Member of the Board of Directors,f,f,t
+00016334-9af9-1bae-0737-b5c0e906fcad,533bd393-c65a-80d5-d444-bf356aee5b35,,,t,Member of the Board of Directors,f,f,t
+00016334-9af9-1bae-0737-b5c0e906fcad,783cbde2-6ae6-f03e-f407-badd1b43aa6b,1977-01-01 00:00:00,,f,"Various Roles - Refining, Marketing, Strategic Planning & Finance",t,f,f
+00016334-9af9-1bae-0737-b5c0e906fcad,9885035a-91d1-5372-4eeb-31e13d62b765,2007-02-01 00:00:00,2015-12-01 00:00:00,f,Chairman of the Board of Directors,f,f,t
+00016334-9af9-1bae-0737-b5c0e906fcad,9885035a-91d1-5372-4eeb-31e13d62b765,2004-01-01 00:00:00,2014-12-01 00:00:00,f,CEO,t,t,f
+00016334-9af9-1bae-0737-b5c0e906fcad,0e8aeaff-bbd3-cebc-7b8d-dedb6c239b11,2016-01-01 00:00:00,,t,Member of the Board of Directors,f,f,t
+000961c0-5d9a-b4ed-2506-da52459d8a98,54cffd0b-01b1-d466-fff7-de8bc74f85d2,2014-12-01 00:00:00,,t,Executive Director,t,f,f
+000575b8-eac0-66b1-2a16-03c08c2b9f66,d2de0c01-397d-b4f1-8575-9b5e74e6b6b8,2011-03-22 00:00:00,,t,Founder & CEO,t,t,f
+0011aaba-f07b-7644-438a-96a88bec762f,da06914f-e619-f996-8d2b-00c235c2cc3d,2015-10-01 00:00:00,,t,Co-Founder & CEO,t,t,f
+0003de08-11d0-4697-f3c1-4426474c435c,74cf04af-d665-b997-b1d3-3985eefdf7e4,2015-01-25 00:00:00,,t,"Analyst, Governance, Compliance & eDiscovery",t,f,f
+000f4cbe-3d71-6a60-833f-c96d1e1050c2,eb80ffed-3f71-7005-5e71-feefc97f4087,2015-11-01 00:00:00,,t,Co-Founder,t,t,f
+000a4344-09d2-b187-71c8-751e1de97d33,ed9459c0-1d1a-1cfa-d4bc-e3595b973c5d,2009-01-01 00:00:00,,t,Chief Executive Officer and President,t,t,f
+0011121c-aa6f-324b-878d-e085249b1af5,334bdfb9-bc61-7f8e-d01f-86caad6234a9,,,f,Board of Directors,f,f,t
+0011121c-aa6f-324b-878d-e085249b1af5,47fe3db8-db01-dee1-8979-eb9d44338be7,,,f,Advisory Council,f,f,t
+0011121c-aa6f-324b-878d-e085249b1af5,12da4670-a64c-1c70-38a6-a79fbfab0edd,,,f,Board of Directors,f,f,t
+0011121c-aa6f-324b-878d-e085249b1af5,7502f8af-775e-1df3-321b-6ebb2be7c5c8,2011-01-01 00:00:00,2012-01-01 00:00:00,f,Chairman,f,f,t
+0011121c-aa6f-324b-878d-e085249b1af5,d5cfeebf-a960-98b3-8296-f20d1f7457e1,,,t,Executive Vice President & Co-Founder,t,f,f
+0011121c-aa6f-324b-878d-e085249b1af5,16d305c7-61c3-0920-9d7b-76e154dd9120,,,t,Board of Directors,f,f,t
+000407db-3ad5-2703-a4cb-3db0749dfb99,a31e40a0-f060-20ec-40a4-e85d1aedad74,,,t,Advisor,f,f,t
+00082be1-4c28-c41f-6147-92d0e12629c8,000ad7a8-b868-f301-5f00-2a3361288fc9,2011-11-23 00:00:00,,t,CEO & Founder,t,f,f
+0000bf3d-7645-e2ef-ec7b-0408a9b2f879,0e17d1a2-1f8c-728a-14d3-2a535f59c281,,,t,Group CFO,f,f,t
+00016334-9af9-1bae-0737-b5c0e906fcad,9885035a-91d1-5372-4eeb-31e13d62b765,2006-04-01 00:00:00,2014-02-01 00:00:00,f,President,t,t,f
+00078a76-76f8-3bf9-82dc-9daf5f68cfa6,6a616ad3-1628-16de-a621-938874b64399,2013-09-01 00:00:00,,t,COO at ZIP,t,t,f
+000961c0-5d9a-b4ed-2506-da52459d8a98,6437e49b-b5fc-a89d-f9cf-c75e8362abe3,,,t,Venture Partner,t,t,f
+000b0575-8e34-adf7-3d72-ec4fbd324a85,568b48b2-3f1e-4bd9-6921-b6d2e712fd20,2008-01-01 00:00:00,2011-01-01 00:00:00,f,Consultant,t,f,f
+000b0575-8e34-adf7-3d72-ec4fbd324a85,7e7190a0-ec35-47f3-5c0f-6af756b95d5f,2015-01-01 00:00:00,,t,Investment Manager,t,t,f
+00065f25-101a-bfe2-d79c-a172af342c70,a1102c6c-1bc4-b6aa-c5f2-6c34bd4b2370,2013-01-01 00:00:00,2014-01-01 00:00:00,f,CTO & Co-Founder,t,t,f
+00065f25-101a-bfe2-d79c-a172af342c70,6663f9d3-e6ab-348f-66c7-cafc00ce01a8,,,t,Founder & CEO,t,t,f
+000407db-3ad5-2703-a4cb-3db0749dfb99,cc09a515-3e15-bfc6-c88a-843648c9436a,2014-12-01 00:00:00,,f,Chief Customer Officer,t,f,f
+0002b103-5086-f3af-a977-b1b22bb27f7f,afc8d4ee-5c42-dee7-067f-226c251959b0,2007-04-01 00:00:00,2009-06-01 00:00:00,f,Senior Vice President and General Counsel,t,f,f
+0002b103-5086-f3af-a977-b1b22bb27f7f,afc8d4ee-5c42-dee7-067f-226c251959b0,2009-06-01 00:00:00,2010-06-01 00:00:00,f,Senior Vice President and General Manager,t,t,f
+0002b103-5086-f3af-a977-b1b22bb27f7f,9a0f7b9f-9432-4ed6-9452-a6bc7a520ce3,2002-07-01 00:00:00,2007-03-01 00:00:00,f,Vice President and General Counsel,t,t,f
+000bf484-87e2-4226-262d-8c026662fbef,162eca7e-8489-2ece-3e09-f9a5a3f50c17,2015-03-01 00:00:00,,t,Trainee - embedded software,t,f,f
+000e933b-56f0-1c0f-4d1c-12ae09c1346f,41d9cf05-3e4a-b824-5daa-83fe39a0551a,2014-10-01 00:00:00,,t,Founder,f,f,t
+000e933b-56f0-1c0f-4d1c-12ae09c1346f,41d9cf05-3e4a-b824-5daa-83fe39a0551a,2014-10-01 00:00:00,,t,CEO,t,t,f
+0010577a-a880-8323-55e2-5326498cd477,6e69ab86-8fc7-6ea6-f38c-31792dff4505,2013-04-01 00:00:00,,t,CEO,t,t,f
+0001e25a-349a-50e2-72fa-ab1168562871,3383f703-ac34-85b4-02c0-7c995c885977,2012-05-01 00:00:00,,f,Senior Web Developer,t,f,f
+0008329b-aec7-45ab-7cea-18d420939fc9,af60484e-7eb0-7ff6-dec0-294eeddfb874,2012-07-01 00:00:00,,t,Chairman,t,f,f
+000e933b-56f0-1c0f-4d1c-12ae09c1346f,996af867-a1bb-cefa-2016-5c35d619eb34,2012-10-01 00:00:00,,t,CEO,t,t,f
+00027005-5db2-d40b-f877-d7a0fd6d288c,ade0af0c-26f9-9e84-ba37-d91e5d509520,2011-08-01 00:00:00,,t,Show Host,t,f,f
+00027005-5db2-d40b-f877-d7a0fd6d288c,cc948714-b193-8f79-4efc-f2524fd3b69e,2011-10-01 00:00:00,,t,Teacher,t,f,f
+000d67ea-22f2-f543-f29b-9275f1f402ce,b7abac4e-e8cc-18fa-8c6e-b3119e652053,2011-07-01 00:00:00,,t,Co - Founder & Chairman of the Board,t,f,f
+00104afd-01f7-d1f0-90af-fff7af4a39ad,a8708f75-09ed-35f3-b346-272131dc977f,2008-08-01 00:00:00,,t,Founder/President/CEO,t,t,f
+000c0818-d1d0-448d-1f6a-e561c10334d7,5275a250-802a-80e6-1172-4288bd5ccf40,2009-06-01 00:00:00,,t,"VP, Sales - Americas",t,t,f
+000f8b65-82fb-8753-9e6c-a84fd41cbd75,16fb3387-bbf7-d582-a4e9-92125b771678,2011-09-01 00:00:00,,t,CTO,t,t,f
+00086d8c-20e6-7c59-aad0-55e8ddd768d2,ce98a706-261e-426e-fa2c-0e540fbe47a1,2011-10-01 00:00:00,,t,Board of Directors,f,t,t
+00119577-8ab2-9752-04eb-ce82882ad0fc,59c1f65e-1090-3fb3-ea4a-d6e53777fda2,2012-10-31 00:00:00,2014-11-02 00:00:00,f,"Cofounder, iOS Lead",t,t,f
+00119577-8ab2-9752-04eb-ce82882ad0fc,0ea8b5df-1f1e-4849-9974-8488f29d0eea,2014-12-16 00:00:00,,t,Chief Information Officer,t,f,f
+000bd510-3700-238a-ec09-85f5211150f5,157f16fd-5e58-3f42-03a8-d4a14f76b4e9,2004-07-15 00:00:00,,t,General Service Manager,t,t,f
+0009f5cb-b369-880a-9638-f4eece52f418,e180a5e3-37c8-0491-5855-c9eea17bf33f,2004-01-01 00:00:00,2008-01-01 00:00:00,f,CEO,t,t,f
+0009f5cb-b369-880a-9638-f4eece52f418,b13463a3-01d7-9082-7f36-8c115fb626bf,1999-01-01 00:00:00,2002-01-01 00:00:00,f,"Country Manager, Mexico",t,t,f
+000f8b65-82fb-8753-9e6c-a84fd41cbd75,4efe9f54-79cb-3557-819c-c90f82bc97c8,1996-01-01 00:00:00,1998-01-01 00:00:00,f,"Staff Engineer, Software Designer",t,f,f
+000f8b65-82fb-8753-9e6c-a84fd41cbd75,1a94235e-7946-4ac6-a796-284edcb9bde4,1998-01-01 00:00:00,1999-01-01 00:00:00,f,"Co-Founder, Technical Officer",t,t,f
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,0d019c21-a294-7bbc-9d4a-d0517892ad98,2011-01-01 00:00:00,2013-01-01 00:00:00,f,President / CEO,t,t,f
+0009f5cb-b369-880a-9638-f4eece52f418,d4180d8b-c189-c227-8e7e-e274133023a4,2012-01-01 00:00:00,2012-01-01 00:00:00,f,Founder,t,t,f
+0009ce3f-5b0a-2e2a-94be-7fcd86e9d020,c9be41cc-0b86-1871-4c3f-95cc3d3b4b18,2000-01-01 00:00:00,2011-01-01 00:00:00,f,Principal & VP Product Development,t,t,f
+0009ce3f-5b0a-2e2a-94be-7fcd86e9d020,2c5155e0-cb9f-b12f-f273-5740ef38a910,2002-01-01 00:00:00,2005-01-01 00:00:00,f,"CTO, VP Engineering & Product Management",t,t,f
+0009ce3f-5b0a-2e2a-94be-7fcd86e9d020,d31d571e-e312-fd45-e044-6ff59af2bb55,2001-01-01 00:00:00,2002-01-01 00:00:00,f,VP of Engineering,t,t,f
+000d67ea-22f2-f543-f29b-9275f1f402ce,bbdfde21-132b-318a-8ecc-f04c2f368409,2010-01-01 00:00:00,2012-01-01 00:00:00,f,Director / Investor,t,t,f
+000f8b65-82fb-8753-9e6c-a84fd41cbd75,b738c4f3-b88c-684f-1d9d-2a5cda4363c4,1999-01-01 00:00:00,2008-01-01 00:00:00,f,Director of Engineering,t,t,f
+000f8b65-82fb-8753-9e6c-a84fd41cbd75,af1cb234-2108-fc02-272a-5ade65278655,2008-01-01 00:00:00,2011-01-01 00:00:00,f,Global Head of Persistent Analytics,t,f,f
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,d9c24f38-6086-b59d-85b7-d5ae8a86a645,2000-01-01 00:00:00,2011-01-01 00:00:00,f,CEO,t,t,f
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,d9c24f38-6086-b59d-85b7-d5ae8a86a645,1998-01-01 00:00:00,2000-01-01 00:00:00,f,COO,t,t,f
+00086d8c-20e6-7c59-aad0-55e8ddd768d2,ca01f2b5-d280-cae7-8603-81609771c485,2006-01-01 00:00:00,2007-01-01 00:00:00,f,Managing Director,t,t,f
+00086d8c-20e6-7c59-aad0-55e8ddd768d2,1e4f199c-363b-451b-a164-f94571075ee5,2001-01-01 00:00:00,2005-01-01 00:00:00,f,Vice President of Intel Capital,t,t,f
+0004aea3-ee6f-5531-558d-c8b50c3afb21,a371f950-8ed4-0b82-e42c-503a780fc67e,1993-01-01 00:00:00,,t,Partner,t,t,f
+00016334-9af9-1bae-0737-b5c0e906fcad,0393ec59-73c7-c747-c97d-43455ff3adfb,2001-01-01 00:00:00,,f,EVP,t,f,f
+000fcf27-3a2f-f2ab-2b4f-d7362f4451dd,a736d449-9ecb-ae36-3a44-965bf6e9be9d,2004-01-01 00:00:00,,t,President and CEO,t,t,f
+00016334-9af9-1bae-0737-b5c0e906fcad,0393ec59-73c7-c747-c97d-43455ff3adfb,1987-01-01 00:00:00,,f,President - Canada,t,t,f
+000e6034-9357-9c22-7a0a-4990fa2e85cc,accb9845-f5c4-ec91-dcd8-96b0e4924405,2014-01-01 00:00:00,,t,Chief Product Officer,t,t,f
+000d67ea-22f2-f543-f29b-9275f1f402ce,9df5e602-5a9f-0f72-2660-01db366574eb,2013-01-01 00:00:00,,t,Investor,f,f,t
+00081d61-57bb-fc90-143e-bad90544b0c5,077d60d6-1885-0518-4162-9e827c9269b2,2012-01-01 00:00:00,,t,Co-Founder,t,t,f
+00012700-a202-530d-6f17-ded0c1060662,bf06a78c-10bf-ca21-4c09-f71fdb476500,2012-01-01 00:00:00,,t,Chief Operating Officer,t,t,f
+0009f5cb-b369-880a-9638-f4eece52f418,e69bcb18-fb59-61b2-cab2-42fe9700421c,2012-01-01 00:00:00,,t,Executive Director,t,f,f
+000d67ea-22f2-f543-f29b-9275f1f402ce,03efa4fa-e4ba-64b8-64a0-4170e077be84,2012-01-01 00:00:00,,t,Advisor,f,t,t
+000d67ea-22f2-f543-f29b-9275f1f402ce,d845782e-8569-2d4e-fd5e-f38817080fb7,2012-01-01 00:00:00,,t,"Advisor, Investor",f,t,t
+000d67ea-22f2-f543-f29b-9275f1f402ce,a54a855b-5521-1b77-c3fb-f8fc9a8b2d5d,,2010-01-01 00:00:00,f,Co - Founder / CEO,t,f,f
+00016334-9af9-1bae-0737-b5c0e906fcad,a325d318-5167-525b-f61d-2ab89d6b05c9,,,f,CPA,t,f,f
+000d67ea-22f2-f543-f29b-9275f1f402ce,92814c59-1917-6aee-5459-d9982a68d302,,,f,Chairman of the Board,f,f,t
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,0d019c21-a294-7bbc-9d4a-d0517892ad98,,,t,Advisor to President & CEO,t,t,f
+000d67ea-22f2-f543-f29b-9275f1f402ce,92814c59-1917-6aee-5459-d9982a68d302,,,t,Angel Investor,f,f,t
+000497ac-d3f9-7969-6c8b-b4050c8efc04,357bf861-fc20-564b-a864-b54dd2619d0e,2014-12-22 00:00:00,,t,CEO & Co-founder,t,t,f
+000a676b-36e1-a0b6-bfb4-8f9b0b40d87e,b28efe40-4b03-cc60-c8d3-46f31fc4e067,2013-04-05 00:00:00,,t,CEO & Funder,t,t,f
+000963b2-ab49-5b8a-2662-de7ee3df739e,57d6ca79-1e7a-ea92-2d17-be2d26f52f94,2012-06-10 00:00:00,2012-12-16 00:00:00,f,Manager Assistant,t,t,f
+000bb698-eb55-8649-f557-a786d81cd79e,d13e4f15-e17b-a816-7948-be7cafbc8bec,1984-03-07 00:00:00,2012-11-11 00:00:00,f,Agedwoods,t,f,f
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,b6474ab8-1cea-e73c-54ba-36c08e357917,,,f,Stringer for the Associated Press,t,f,f
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,b6474ab8-1cea-e73c-54ba-36c08e357917,,,t,"Editorial Director, UCLA Daily Bruin",t,f,f
+000407db-3ad5-2703-a4cb-3db0749dfb99,e0f91ac0-8e46-f4cf-96af-0a1549ad8a6e,,,t,Founder,t,t,f
+00027005-5db2-d40b-f877-d7a0fd6d288c,a3e3fbb6-df13-8e80-f595-1f2692f9c051,2004-01-23 00:00:00,,t,Technical Director / Host,t,f,f
+000e933b-56f0-1c0f-4d1c-12ae09c1346f,b212dfb7-e7cf-bc0e-82ec-7d3edd8287f1,2009-07-06 00:00:00,,t,SEO Analyst,t,f,f
+00053820-3069-bf8e-e62b-3ba5c80b74a9,2ddb66ed-5eb3-0954-dc7c-8f36b064f05b,2013-02-05 00:00:00,,t,"Founder, CEO",t,t,f
+000ec1c0-05c4-451e-c622-fa1cabaefa4e,da0542f2-d366-5d20-6c4d-b182773d1d8b,,,f,SVP / General Counsel,t,t,f
+000c0818-d1d0-448d-1f6a-e561c10334d7,8543cfe8-b6b1-0dd8-060a-e636c28fbf89,,,f,"Sales, Marketing & Operations",t,f,f
+000c0818-d1d0-448d-1f6a-e561c10334d7,bcd4a8ae-6fc2-1d08-8efb-e61732c93814,,,f,"Sales, Marketing & Operations (Transcrypt International)",t,f,f
+000c0818-d1d0-448d-1f6a-e561c10334d7,bcd4a8ae-6fc2-1d08-8efb-e61732c93814,,,f,"Sales, Marketing & Operations",t,f,f
+000c0818-d1d0-448d-1f6a-e561c10334d7,1f2d7988-b461-f905-b8ab-c9a773063bd7,,,f,Team Member,t,f,f
+000d67ea-22f2-f543-f29b-9275f1f402ce,bbdfde21-132b-318a-8ecc-f04c2f368409,,,t,Angel Investor,t,f,f
+000d67ea-22f2-f543-f29b-9275f1f402ce,08c7f737-1be0-0086-4e37-e8f77efa19e7,,,t,CEO & Entrepreneur In Residency,t,t,f
+00086d8c-20e6-7c59-aad0-55e8ddd768d2,1e4f199c-363b-451b-a164-f94571075ee5,,,f,Director of Marketing,t,t,f
+00086d8c-20e6-7c59-aad0-55e8ddd768d2,1e4f199c-363b-451b-a164-f94571075ee5,,,f,General Manager,t,t,f
+00086d8c-20e6-7c59-aad0-55e8ddd768d2,1e4f199c-363b-451b-a164-f94571075ee5,,,f,Director of Worldwide Developer Relations,t,t,f
+00086d8c-20e6-7c59-aad0-55e8ddd768d2,1e4f199c-363b-451b-a164-f94571075ee5,,,f,Vice President of the Content group,t,t,f
+00086d8c-20e6-7c59-aad0-55e8ddd768d2,701bde27-7e65-efbd-5fb4-e7696769d10e,,,t,Co-Founder and Managing Director,t,t,f
+00086d8c-20e6-7c59-aad0-55e8ddd768d2,1e4f199c-363b-451b-a164-f94571075ee5,,,f,Vice President and General Manager of the Home Products,t,t,f
+0009f5cb-b369-880a-9638-f4eece52f418,0c430e2d-0b76-258c-1d5e-b973cc3cd827,2008-11-02 00:00:00,,t,Founder / CTO,t,t,f
+00104afd-01f7-d1f0-90af-fff7af4a39ad,29cf2683-20c1-f185-2841-c21c0ad65991,,,f,Team Member,t,f,f
+00104afd-01f7-d1f0-90af-fff7af4a39ad,c9256bba-b0ea-fa94-2f21-8d54788ffcc5,,,f,Team Member,t,f,f
+00104afd-01f7-d1f0-90af-fff7af4a39ad,8c63990c-84be-d178-1670-b51c15a30cff,,,f,Team Member,t,f,f
+00104afd-01f7-d1f0-90af-fff7af4a39ad,cc1c1abf-7c27-0eba-fc0e-605106002058,,,f,Team Member,t,f,f
+00104afd-01f7-d1f0-90af-fff7af4a39ad,808aa938-f826-cef1-c992-2cbbbd24caec,,,f,Team Member,t,f,f
+00104afd-01f7-d1f0-90af-fff7af4a39ad,97644e28-742b-60b6-8873-35cd701ebb94,,,f,Team Member,t,f,f
+00104afd-01f7-d1f0-90af-fff7af4a39ad,03b4c485-d96c-3c34-2e4c-e6c3d35066e0,,,f,Team Member,t,f,f
+00016334-9af9-1bae-0737-b5c0e906fcad,0393ec59-73c7-c747-c97d-43455ff3adfb,,,f,President - Chevron International Oil Company,t,t,f
+0002b103-5086-f3af-a977-b1b22bb27f7f,7812260c-7e86-567f-1ac3-d58121cecf9f,,,f,Attorney,t,f,f
+0002b103-5086-f3af-a977-b1b22bb27f7f,afc8d4ee-5c42-dee7-067f-226c251959b0,,,t,Chief Operating Officer,t,t,f
+000cc557-41b9-5790-4a58-aad9df704f75,bb28d78b-0341-5f23-3e53-0b4169e16c4b,2010-08-02 00:00:00,,t,Chief Architect,t,f,f
+000fcf27-3a2f-f2ab-2b4f-d7362f4451dd,a9bd0416-5fbb-fbf1-917a-5e1a8babac06,,,t,Board of Trustees,f,f,t
+000fcf27-3a2f-f2ab-2b4f-d7362f4451dd,63364fa9-fc3c-28af-ae49-e49838ae9267,,,f,Global Transportation Group,t,f,f
+000fcf27-3a2f-f2ab-2b4f-d7362f4451dd,c97864c5-7392-e25f-3e63-a12bf51d2f61,,,f,CEO,t,t,f
+000fcf27-3a2f-f2ab-2b4f-d7362f4451dd,d1901542-3b98-e89b-3603-f24b5aee3fdb,,,t,Board Member,f,t,t
+000900e0-de66-f99d-38cb-def9d7b8a75b,85767bb9-1b17-9997-06a2-56525738e398,2013-08-09 00:00:00,,t,COO/Co-Founder,t,t,f
